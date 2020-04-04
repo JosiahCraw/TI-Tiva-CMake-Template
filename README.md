@@ -22,6 +22,6 @@ user@linux~$ ../scripts/clear
 
 ## Other Tools
 
-This can be combined with my super awesome :point_right: [electron app](https://git.sys-io.net/projects/GS/repos/git-selector) :point_right:
+This can be combined with my super awesome :point_right: [Electron App](https://git.sys-io.net/projects/GS/repos/git-selector) :point_left: -Git Checker
 
 Its that easy!
