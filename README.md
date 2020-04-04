@@ -20,6 +20,8 @@ user@linux~$ cd src
 user@linux~$ ../scripts/clear
 ```
 
-This can be combined with my super awesome [electron app](https://git.sys-io.net/projects/GS/repos/git-selector)
+## Other Tools
+
+This can be combined with my super awesome :point_right: [electron app](https://git.sys-io.net/projects/GS/repos/git-selector) :point_right:
 
 Its that easy!
